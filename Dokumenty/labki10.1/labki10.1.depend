@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1545227964 source:/home/LABPK/rwensker/Dokumenty/labki10.1/main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-

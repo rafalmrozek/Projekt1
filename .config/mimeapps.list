@@ -1,9 +1,0 @@
-[Added Associations]
-text/plain=mousepad.desktop;
-inode/directory=exo-file-manager.desktop;
-application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
-text/x-csrc=mousepad.desktop;
-application/x-sharedlib=exo-file-manager.desktop;
-application/x-shellscript=gvim.desktop;emacs25.desktop;
-application/pdf=atril.desktop;
-text/x-tex=texworks.desktop;

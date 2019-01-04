@@ -1,0 +1,12 @@
+#!/bin/bash
+
+tab=($*)
+
+s=0
+
+for i in ${tab[@]}
+ do 
+
+let s=$s+$i
+
+done echo $s

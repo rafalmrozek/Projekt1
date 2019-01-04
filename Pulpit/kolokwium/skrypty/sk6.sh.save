@@ -1,0 +1,50 @@
+#!/bin/bash
+
+tab=($*)
+
+function najmniejsza
+
+{
+	local let min=${tab[0]}
+
+	for i in ${tab[@]}
+
+	do
+
+		if [[ $min -gt $i ]]
+
+		then
+		
+	let min=$i
+	
+	fi
+	done
+	
+return $min
+}
+
+function najwieksza
+
+{
+	local let max=${tab[0]}
+	for i in ${tab[@]}
+
+	do
+
+		if [[ $max -lt $i ]]
+	
+	then
+		
+let max=$i
+
+		fi
+
+	done
+	
+return $max
+}
+ 
+najmniejsza
+echo $? 
+
+najwieksza echo $?

@@ -1,0 +1,2150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+100
+105
+110
+115
+120
+125
+130
+135
+140
+145
+15
+150
+155
+160
+165
+170
+175
+180
+185
+190
+195
+20
+200
+205
+210
+215
+220
+225
+230
+235
+240
+245
+25
+250
+255
+260
+265
+270
+275
+280
+285
+290
+295
+30
+300
+305
+310
+315
+320
+325
+330
+335
+340
+345
+35
+350
+355
+360
+365
+370
+375
+380
+385
+390
+395
+40
+400
+405
+410
+415
+420
+425
+430
+435
+440
+445
+45
+450
+455
+460
+465
+470
+475
+480
+485
+490
+495
+5
+50
+500
+505
+510
+515
+520
+525
+530
+535
+540
+545
+55
+550
+555
+560
+565
+570
+575
+580
+585
+590
+595
+60
+600
+605
+610
+615
+620
+625
+630
+635
+640
+645
+65
+650
+655
+660
+665
+670
+675
+680
+685
+690
+695
+70
+700
+705
+710
+715
+720
+725
+730
+735
+740
+745
+75
+750
+755
+760
+765
+770
+775
+780
+785
+790
+795
+80
+800
+805
+810
+815
+820
+825
+830
+835
+840
+845
+85
+850
+855
+860
+865
+870
+875
+880
+885
+890
+895
+90
+900
+905
+910
+915
+920
+925
+930
+935
+940
+945
+95
+950
+955
+960
+965
+970
+975
+980
+985
+Ach, ja pamietam czasy, kiedy do ojczyzny,
+Albo o ktorych pozniej dowiedziec sie zdolal.
+Albo sam na nim padnie. Dalej w polskiej szacie
+Ale co dzien postrzegam, jak mlodz cierpi na tem,
+Ale czestym skinieniem glowy potakiwal.
+Ale mysl twarz nadobna odgadywac zwykla:
+Ale nie staropolska, ani tez szlachecka.
+Ale nie tylko grozne wejrzenie i blizny,
+Ale nigdzie nie widac bylo ogrodniczki;
+Ale razem niemala chetke do swawoli.
+Ale stryj nagle pierwsze zamiary odmienil,
+Ale wszyscy sluchali w milczeniu glebokiem.
+Ani jarmulek, ani czerwonych kolnierzy,
+Asesor mniej krzykliwy i mniej byl ruchawy
+Asesor zas dowodzil na zlosc Rejentowi,
+Autor: Adam Mickiewicz
+Az oslupial Tadeusz na tyle nauki!
+A chlopi zegnali sie, mowiac: ze po swiecie
+A choc przez wzglad na gosci niewiele z nim mowil,
+A ciotka w Petersburgu mieszkala przed laty.
+A co Francuz wymysli, to Polak polubi.
+A czul sie pomieszany, zly i niewesoly.
+A kazdy mimowolnie porzadku pilnowal;
+A miedzy szlachta dzieje domowe powiatu.
+A mlodszej przysunawszy z talerzem ogorki,
+A najstraszniej pan Rejent byl zacietrzewiony:
+A natenczas tam w modzie byl tytul markiza.
+A na kozlach Niemczysko chude na ksztalt deski;
+A na oknach donice z pachnacymi ziolki,
+A niewinnemu kazda kochanka dziewica.
+A od tylu lat siedzi jak mnich na swym dworze,
+A on zmienil sie w lisa, tak Suwarow w charta;
+A on znowu fajt w lewo, jak wytnie dwa susy,
+A pani ta niewiasta juz w latach dojrzala;
+A pan kusosc uwazasz za dowod dobroci?
+A pan Rejent na koncu Wojskiej Hreczeszance.
+A potem, miedzy rzedem siedzacych i stolem,
+A potem sie zaczely wpol glosne rozmowy;
+A reszte rozdzielono miedzy wierzycieli.
+A starzy i kobiety zniwo ogladaja
+A szczegolniej mu slowo <<ciocia>> kolo ucha
+A u tej krucze dlugie zwijaly sie sploty?
+A wszystko przepasane jakby wstega, miedza
+A w spadku po rodzicach wzial czerstwosc i zdrowie.
+A w srodku jej byl portret krola Stanislawa.
+A zatem...>> Tu Pan Sedzia naglym zwrotem glowy
+A zawsze o tym, co sie w cudzych krajach dzialo.
+A zwierze niemajace klow, rogow, pazurow,
+Bernardynskie: coz o tym gadac u wieczerzy;
+Bernardyn zmowil krotki pacierz po lacinie;
+Bezladnoscia opieki, wyrokami sadu,
+Bez reki lub bez nogi, przyjawszy jalmuzne,
+Biala twarz, usta krasne jak wisnie bliznieta;
+Biegal po calym domu i szukal komnaty,
+Biegla i wszystkich lekkim witajac uklonem,
+Biegly przed nim i za nim. Slawa czynow tylu,
+Blisko siebie lezace wstecz nagle uciekly,
+Blizne, wycietej skory na szerokosc dloni,
+Blysnelo, jako swieca przez okiennic szpary,
+Bog, Kara, Rozum
+Bohater, Zolnierz, Zebrak
+Bo biegla bardzo szybko, suwala sie raczej
+Bo choc zawsze i plynnie mowil, i z rozsadkiem,
+Bo coz by on na waszych polowaniach lowil?
+Bo juz sam wewnatrz siebie czul choroby zarod.
+Bo mlodziencowi mloda jest kazda kobieta,
+Bo nawet wozy, w ktore juz skladac zaczeto
+(Bo nie bylo goraco); wachlarz pozlocisty
+Bo nie jest bez grzecznosci i milosc dziecinna,
+Bo nikt lepiej nad niego nie znal polowania.
+Bo Pan Bog, kiedy kare na narod przypuszcza,
+Bo Paryz czesta mody odmiana sie chlubi;
+Bo powiadano o nim: ma zadlo w jezyku;
+Bo przeciez o ten zamek dzis toczy sie sprawa.
+Bo Sedzia nigdy nie chcial, wedlug nowej mody,
+Bo Sedzia wie, ze oko panskie konia tuczy.
+Bo Sedzia w domu dawne obyczaje chowal,
+Bo taka grzecznosc modna, zda mi sie kupiecka,
+Bo tam, wzmoglszy sie nagle, stronnicy Sokola
+Bo teraz Napoleon, czlek madry a predki,
+Bo ubrana, a ubior powieksza i zmniejsza.
+Bo w niebytnosc Wojskiego Wozny po kryjomu
+Bo z pierwszej lekliwosci calkiem juz ochlonal,
+Brali strone Kusego albo tez Sokola,
+Bral dom zalobe, ale powiedziec nie smiano
+Brzeczalo ciagle jako naprzykrzona mucha.
+Brzemienna imionami rycerzy, od Nilu
+Byla Ekonomowi poczciwemu swieta;
+Byla to historyja zyjaca krajowa,
+Byle nie szpieg rzadowy i byle nie w nedzy.
+(Byl dawniej adwokatem pan Rejent Bolesta,
+By stary Dabrowskiego uslyszec mazurek.
+By zycie uprzyjemnic i wies rozweselic.
+Cale zaczerwienione, jak zdrowe oblicze
+Caly las wiaze w jedno i jakoby zlewa;
+Cap!>> Tak krzyczac, pan Rejent na stol pochylony,
+<<Chart bez ogona jest jak szlachcic bez urzedu,
+Chciala usiesc na miejscu sobie zostawionem:
+Chcial cos mowic, przepraszac; tylko sie uklonil
+Chlopiec, co je poslyszal, znikal nagle z domu,
+Choc mlodziez nieraz jego zasiegala zdania,
+Choc pani Telimena mieszkala w stolicy
+Choc Sedzia z dokumentow przekonywal o tem,
+Choc stary i niezgrabny>>. Zatem sie rzucilo
+Choc stryj na wychowanie niczego nie skapil;
+Chodzil i nie w klasztornym zestarzal sie murze.
+Chwala Bogu, ze teraz, jesli nasza mlodziez
+<<Chwytny? -- krzyknal pan Rejent -- moj pies faworytny
+Ciesza sie z niezwyczajnej ich lekkosci woly.
+Cieszyl sie, ze tak piekny pies nie ma narowu,
+Ciskajac grom po gromie, w Piramidy, w Tabor,
+Cisze przerywal tylko glos nocnego stroza.
+Coz by rzekl na to stary Rejtan, gdyby ozyl?
+Coz by to o tym starzy mowili mysliwi,
+Coz, gdy potem zaczela mowic o malarstwie,
+<<Coz zlego, ze przenioslem stoly do zamczyska?
+Co dzien za dusze jego prosze Pana Boga.
+Cywilizowac bedzie i konstytuowac;
+Czarnoziemne, zapewne nalezne do dworu,
+Czarowal; tak byly czary przeciw czarow.
+Czasem do Litwy kwestarz z obcego klasztoru
+Czas i ziemianinowi ustepowac z pola>>.
+Czchal niby prosto w pole, za nim psow gromada;
+Czesto on z panem Sedzia rozmawial osobno;
+Czesto zastanawial sie w powiatowym miescie.
+Czytal wiec i rozmyslal: Oginski z Wizgirdem,
+Czy mlodziez lepsza, ale widze mniej zgorszenia.
+Czy na Francuza; oj ten Bonapart figurka!
+Dac mala wies, a potem caly swoj majatek.
+Dalej drzec pazurami, a Suwarow w kuca.
+(Daleki krewny panski i przyjaciel domu).
+Dal mu powaznie reke do pocalowania,
+Dal rozkaz ekonomom, wojtom i gumiennym,
+Dano trzecia potrawe. Wtem pan Podkomorzy,
+Dawano przez to poznac szlachcicowi bratu,
+Dawno domu nie widzial, bo w dalekim miescie
+Demokrata przyjechal z Paryza baronem;
+Dlaczego urzadzenie panskie przeinaczyl:
+Dla skonczenia dawnego z panem Hrabia sporu.
+Dla slug swoich, a w kazdej jest pewna odmiana.
+Dla wieku, urodzenia, rozumu, urzedu.
+<<Dobrze moj Tadeuszu, (bo tak nazywano
+Dobrze moj Tadeuszu, zes sie dzis nagodzil
+Dobrze na koniu jezdzil, pieszo dzielnie chodzil,
+Dom
+Dominikanie z Rymsza, Rymsza z Wysogirdem,
+Dom, Gosc, Dziecinstwo, Wspomnienia
+Dom, Kobieta
+Dosc, ze Hrabia chcial zamku. Wlasnie i Sedziemu
+Dosc, ze wazny i ze sie stempel na nim widzi,
+Dostatecznej dla tylu, tak szanownych gosci,
+Dosyc, ze sie nam zdawal malpa lub papuga
+Doszli potem najwyzszych krajowych urzedow,
+Dowiode, ze zamczysko wzielismy w posiadlosc.
+Dowiodla, ze zna rownie pedzel, nuty, druki;
+Dowodzi, ze posiadlosc tam ma albo bierze;
+Do domu, wlasnie kiedy mamy panien wiele.
+Do dworow panskich, z szlachta ustawicznie szeptal,
+Do ludu, jak oficer stojac przed szwadronem:
+Do tych pagorkow lesnych, do tych lak zielonych,
+Do tych pol malowanych zbozem rozmaitem,
+Do ubrania, na krzesla poreczu rozpieta;
+Do zolnierki jedyni, w naukach mniej pilni.
+Drugich wiek, urodzenie, cnoty, obyczaje,
+Drzewo
+Dusze czysta, mysl zywa i serce niewinne,
+Dziedzictwo starozytnej rodziny Horeszkow;
+Dziedzic zginal byl w czasie krajowych zamieszkow.
+Dzik, niedzwiedz, los, wilk, zwany byl zwierzem szlacheckim
+Dzis czlowieka nie pytaj: co zacz? kto go rodzi?
+Dziwnie ozdabial glowe: bo od slonca blasku
+Forum mysliwskim tylko sa laki i knieje;
+Gadajacych przez nosy, a czesto bez nosow,
+Gazete im pokazal, wypruta z szkaplerza.
+Gdy inni, wiecej godni Wojewody wzgledow,
+Gdy je wicher rozerwie; i rece pod stolem
+Gdy nie widzial we dworze rosyjskich zolnierzy
+gdy ow maz, bog wojny,
+Gdy Sedziego nawiedzil, skoro pobyl malo,
+Gdy sie pan Wojski dosyc napytal, nabadal,
+Gdy tak byly zajete stolu strony obie,
+Gdy w nia dzwonil, znak dawal, ze mial glos zabierac.
+Gdzie mieszkal dzieckiem bedac, przed dziesieciu laty.
+Gdzie sie cukier wytapia i gdzie w wiecznej wiosnie
+Gdzie uslyszal glos mily: <<Witaj nam kolego!>>
+Glosno, i sam nie wiedzial, czy go mialo smieszyc
+Glowa do wlosow, wlosy pozwijane w kregi,
+Gorzaly przeciw sobie jak roratne swiece.
+Goscie glodni, chodzili daleko na pole;
+Goscie weszli w porzadku i staneli kolem.
+Gosc, Obyczaje
+Gospodarz
+Gospodarza, gdy prace skonczywszy rolnicze
+Gospodarz, Gosc
+Gospodarz, Sluga
+Gospodarz widzi, w jakim stanie jest obora.
+Gospodarz, Zwierzeta, Wieczor
+Gotowac sie do marszu! Pojdziem, czy pod Turka,
+Gracz szarak! Skoro poczul wszystkie charty w kupie
+Grom taki, wstal zmieszany, chwile nic nie gadal,
+Grzadki, widac, ze byly swiezo polewane,
+Grzecznosc, ktora powinna mlodz dla plci nadobnej;
+Grzecznosc nie jest nauka latwa ani mala.
+Grzecznosc, Pozycja spoleczna
+Grzecznosc, Pozycja spoleczna, Kobieta, Mezczyzna
+Grzecznosc wszystkim nalezy, lecz kazdemu inna;
+Herb Horeszkow, Polkozic, jasnial na sklepieniu.
+He! Ojczyzna! Ja nie szpieg, a po polsku umiem, --
+Historia, Obyczaje
+Historia, Polska
+Idac klanial sie damom, starcom i mlodziezy;
+Idac klanial sie damom, starcom i mlodziezy.
+Ilekroc z jej oczyma spotkal sie mlodzieniec:
+Ile cie trzeba cenic, ten tylko sie dowie,
+Inaczej bawiono sie w drugim koncu stola;
+Isc za wrocone zycie podziekowac Bogu),
+Izby je w kalendarzu mozna wydrukowac,
+I bawi sie niedawno w naszej okolicy,
+I bor czernil sie na ksztalt ogromnego gmachu,
+I <<cap!>> Tadeuszowi wrzasnal tuz nad uchem:
+I cofnal sie. Dziewica krzyknela bolesnie,
+I dalej mowil: <<Grzecznosc nie jest rzecza mala:
+I dalszych replik stronom dzisiaj nie dozwole.
+I dobra, ktore na skarb ca
+I dwiestu strzelcow trzyma obyczajem panskim,
+I dwie twarze w jeden sie rumieniec oblekly.
+I dziwniejsze od basni historyje gadal.
+I gestami ja bardzo dobitnie malowal.
+I jakal sie jak zaczek przed nauczycielem.
+I jak bawic sie trzeba, i jak czas podzielic,
+I jeszcze sie do woli nagadac nie moga.
+I jeszcze z tych jednemu chciano przeczyc chwaly!
+I kazdego z nich opis zwyciestwa lub zgonu.
+I kazdy ksiadz toz samo gada na ambonie.
+I ma sto wozow sieci w zamku Woronczanskim,
+I mimo cala strony przeciwnej zajadlosc
+I Moskalom przez Niemen rzekl: <<Do zobaczenia!>>
+I musial wszystkie dzienne rachunki przezierac.
+I nazwisko kazdego wodza legijonu,
+I na konikach male gonily panicze
+I nie chcial wiedziec, skad sa, z jakich rak i krajow,
+I nie przeczym, ze nasi synowie i wnuki
+I nigdy na nim noga moja nie postanie!
+I nigdy nie dozwalal, by chybiano wzgledu
+I nurkiem plynal na brzeg Ksiestwa Warszawskiego,
+I obieglszy dziedziniec zawrocil przed ganek.
+I objal gospodarstwo; przyrzekl na poczatek
+I od dziecinstwa mieszkal w Wilnie, wielkim miescie,
+I oglada sam siebie, jak w zupanie bialym,
+I okoliczne wioski dokola wydeptal,
+I palcami ruch chartow przedziwnie udawal)
+I panien nie zabawia przez rozmowy grzeczne,
+I pani Telimena, i panny, i panie,
+I pan Hrabia ma jutro sam zjechac do dworu;
+I patrzyl wzrokiem smialym, w ktorym ogien plonal.
+I poprawiwszy nieco wylotow kontusza,
+I posiedzenie nasze na jutro solwuje,
+I potrzasajac glowa, rzekl z gorzkim usmiechem:
+I po desce opartej o sciane komnaty...
+I przepraszal Sedziego; Sedzia sie zadziwil,
+I przyjezdny gosc, krewny albo czlowiek cudzy,
+I rzekl: <<Moj Sedzio, dawniej bylo jeszcze gorzej!
+I slowa liturgii takim wyrzekl tonem
+I staja mu przed oczy sad, strony i swiadki;
+I starzy sie uczyli; u panow rozmowa,
+I stodole mial wielka, i przy niej trzy stogi
+I stoi wypisany kazdy po imieniu;
+I Tadeusz wzrok stryja ku drzwiom odprowadzal,
+I tak, medrsi fircykom oprzec sie nie smieli,
+I tez same portrety na scianach wisialy:
+I ustawic co predzej w posrodku zamczyska,
+I utrzymywal, ze on zajaca pochwycil;
+I waszec z nami ruszysz, Sedzio moj sasiedzie,
+I wionela ogrodem, przez plotki, przez kwiaty,
+I wlos u tamtej widzial krotki, jasnozloty,
+I wnet sierpy gromadnie dzwoniace
+I Wojski towarzystwa nam tez nie odmowi>>.
+I wzglad meza dla zony przy ludziach, i pana
+I wznosi chmure pylu; dalej z wolna kroczy
+I w brodzie slad niedawny lancy lub postrzalu;
+I w dawnej surowosci prawidlach wychowal.
+I w karczmach z wiesniakami rozprawial niemalo,
+I w skron ucalowawszy uprzejmie pozdrowil;
+I w twarz spojrzala, z ktorej wytryskal rumieniec,
+I zaraz moglem pieszo, do Twych swiatyn progu
+I ze przymiotow jego poznac nie mial czasu.
+I ze zdan wyciagala na nowo pytania.
+I zgaslo.
+I zlakl ich sie jak dzumy jakiej caly narod,
+I znowu je na drobnych sladach zatrzymywal,
+I zwyciezca, wydartych potomkom cezarow
+I z dziecinna radoscia pociagnal za sznurek,
+I z krzykiem podroznego sciskal i calowal.
+I z lak, i z pastwisk razem wracalo do dworu.
+I z nim na miejscu pustym oczy swe osadzal.
+I z wolna w tabakiere palcami zadzwonil.
+Jakby czyjegos przyjscia byl pewny i zadal.
+Jakby prawo w tyl robil za wodza rozkazem,
+Jakoz, kiedy sie moda odmienila z laty,
+Jako osobki, ktore na trzykrolskie swieta
+Jako po deszczu zabki na samotnej lace;
+jako po zadzwonieniu na pacierz w klasztorze;
+Jako wierzcholki drzewa powiazane spolem
+Jako wodz gospodarstwa obmysla wyprawe
+Jako w porzadnym domu, i obrok, i siano:
+Jak bilardowa kula toczyla sie kolem.
+Jak drudzy, i wrociwszy w domu ziemie orze,
+Jak Kniaziewicz rozkazy daje z Kapitolu
+Jak mnie dziecko do zdrowia powrocilas cudem
+Jak na szalach, zebysmy nasz ciezar poznali,
+Jak on rodakow zbiera na lombardzkim polu;
+Jak raz zaczal, bez przerwy rzecz swoja tokowal,
+Ja i Asesor, razem, jakoby dwa kurki
+Ja mowie, bedzie wojna u nas. Do Majora
+Ja sam lat dziesiec bylem dworskim Wojewody,
+Jedna reka na szabli, a druga do stola,
+Jednym palcem spuszczone u jednej dwururki;
+Jedzenie, Obyczaje
+Jedzenie, Obyczaje
+Jedzenie, Obyczaje, Mezczyzna, Kobieta
+Jego ramiona silne, jego piers szeroka,
+Jej ubior zwrocil oczy; wszyscy ja witali,
+Jej zjawienie sie nagle, jej wzrost i uroda,
+Jeslim tyle na jego nie korzystal dworze
+Jesli ich nie czytano w francuskiej gazecie.
+Jesli kto i czul wtenczas, ze polskie ubranie
+Jest slawa, a wiec bedzie i Rzeczpospolita!
+Jest z czego wybrac; u nas towarzystwo liczne
+Jezdzi wenecki diabel w niemieckiej karecie.
+Jutro i Hrabia z calym myslistwem tu zjedzie,
+Juz konie w stajnia wzieto, juz im hojnie dano,
+Juz krag promienisty
+Juz nie puste, bo on je napelnil myslami.
+Juz Sedzia spal. Wiec Wozny cicho wszedl do sieni,
+Juz to ze odglos trabki i widok oblawy
+Kara
+Kazal, aby przyjechal i aby sie zenil
+Kazal stoly z wieczerza powynosic z domu,
+Kichnal, az cala izba rozlegla sie echem,
+Kiedy do ojca mego, w Oszmianskim powiecie,
+Kiedy mial strzelcow licznych i psy zawolane:
+Kiedy sie czlowiek uczy wazyc, jak przystalo,
+Kilku mlodych od stolu i pannom sluzylo.
+Kobieta, Mezczyzna
+Kobieta, Mezczyzna
+Kobieta, Mezczyzna, Obyczaje
+Kobieta, Mezczyzna, Spotkanie
+Kogo owa szczesliwsza galka oznaczala.
+Kolor musial pochodzic od slonca promieni,
+Konczyl nauki, konca doczekal nareszcie.
+Konflikt, Sad
+Kope zyta, niepelne jada do stodoly:
+Krotkie byly Sedziego z synowcem witania:
+Krotkie i poplatane, w ciag powiesci, pytan,
+Krotkie; w reku krecila wachlarz dla zabawki
+Krzyczano na modnisiow, a brano z nich wzory;
+Ktora mu jak Oltarzyk Zloty zawsze sluzy,
+Ktora sie po francusku zwala karyjulka:
+Ktorego posiadaniem pan Rejent sie szczycil
+Ktorego widne byly pod lasem zwaliska.
+Ktorej juz bronic nie mogl... Jak go wtenczas cala
+Ktorej nigdy nie rzuca w domu i w podrozy.
+Ktore bronily Litwe murami zelaza
+Ktorych nigdy przy obcych ludziach nie otwieral,
+Ktorymi przy zachodzie wszystko sie czerwieni.
+Ktory ma dotad pierwsze na swiecie ogary,
+Ktory teraz za domem urzadzal wieczerze.
+Ktoz by tu mieszkal? Stary stryj nie byl zonaty;
+Kto cie stracil. Dzis pieknosc twa w calej ozdobie
+Kulturze, ze tamuje progresy, ze zdradza!
+Kupsc, Gedymin i inni, ktorych nie policze:
+Kusy piekny chart z ksztaltu, jesli rownie chwytny...>>
+Las
+Lasami i bagnami skradal sie tajemnie,
+Lecz Hrabia, sasiad bliski, gdy wyszedl z opieki,
+Lecz mlodziez o pieknosci metryke nie pyta,
+Lecz mniej wielkie, mniej piekne niz sie dawniej zdaly.
+Lecz na wzmianke Warszawy, rzekl podnioslszy glowe:
+Lecz nim odszedl, wyskoczyl na wzgorek z kamienia
+Lecz patrzal na rywala coraz straszniej, srozej...
+Lecz sam ruch i glos jego mial cos zolnierszczyzny.
+Lecz stalo sie: juz pozno i trudno zaradzic,
+Lecz straszny na reducie, balu i sejmiku,
+Lecz wtenczas panowalo takie oslepienie,
+Ledwie raczyli widziec, coz klocic sie o nie!
+Ledwo slow kilka wyrzekl, do Podkomorzanki;
+Lekal sie, by nie zostal posmiewiska celem,
+Lepiej zna sie na lowach niz mysliwi mlodzi:
+Lilia jezior skron biala wznoszaca nad wode.
+Litwo! Ojczyzno moja! ty jestes jak zdrowie:
+Lubil bardzo myslistwo, juz to dla zabawy,
+Lub wymowy uczyc sie w paryskich kawiarniach.
+Maja od starych wiecej ksiazkowej nauki;
+Maja sadzic sie spory o charcim ogonie?
+Maleski z Mickiewiczem, a na koniec Hrabia
+Mam list, to rzecz zakonna, to sa nasze sprawy
+Marzac i konczac pacierz wieczorny, pomalu
+Matka Boska, Opieka, Cud
+Mezczyzni rozsadzali swe dzisiejsze lowy.
+Mezczyznom dano wodke; wtenczas wszyscy siedli,
+Miala nad umyslami wielka moc ta tluszcza;
+Mial on nad prawym uchem, nieco wyzej skroni,
+Mial pelno interesow: to listy odbieral,
+Mial za dozorce ksiedza, ktory go pilnowal
+Miedzy nim i stryjaszkiem jedno pozostalo
+Mierzejewscy, Brochocki i Bernatowicze,
+Milczal; bo by krzyczala mlodziez, ze przeszkadza
+Mlodzienca, ktory nosil Kosciuszkowskie miano
+Mlodziez poszla do lasu bawic sie strzelbami,
+Mniej silnie, ale szerzej niz we dnie swiecilo,
+<<Mnie polityka nudzi; jezeli z Warszawy
+Moda, Obyczaje, Starosc, Mlodosc, Przemiana, Narod
+(Mowiac, Podkomorzemu scisnal za kolana);
+Mowy starca krazyly we wsi po kryjomu;
+Moze tez co o naszym wojsku wie Jegomosc?>>
+Musim kogos posadzic na przeciwnej szali.
+Muskala wlosow pukle i wstag jasnych peki.
+Myslal o nich i, czyje byly, odgadywal.
+Myslilem, ze dzis z nami nie bedziesz przy stole>>.
+Myslil, ze pewnie miala czarniutkie oczeta,
+My na nauke mlodziez do stolicy dajem;
+My od dzisiaj do zamku nabylismy prawa
+Nagla, cicha i lekka, jak swiatlosc miesiaca.
+Nagotowane z rana, bo od rana wiedzial,
+Napelniajac wierzcholki i galezie drzewa,
+Nareszcie rzekl Woznemu, ze sie chce rozbierac.
+Nauka dawna byla, szlo o jej pelnienie!
+Nauka, Obyczaje, Dziedzictwo
+Nauka, Prawda, Moda
+Nawet strony przeciwne wezmiemy na swiadki:
+Nazywal sie Soplica: wszyscy Soplicowie
+Nazywam sie Hreczecha, a od krola Lecha,
+Na czterech lawach cztery ich rzedy siedzialo:
+Na filarach, podloga wyslana kamieniem,
+Na ktore moglby spojrzec bez wstydu krolewic,
+Na nim nuty i ksiazki; wszystko porzucano
+Na pagorku niewielkim, we brzozowym gaju,
+Na pamiatke, ze w czasie wojny sie urodzil)
+Na pana Tadeusza wsparla sie ramieniu.
+Na partyje Kusego bez litosci wsiedli.
+Na piasku, bez trzewika byla i ponczoszki;
+Na piasku drobnym, suchym, bialym na ksztalt sniegu,
+Na piersiach, przydawajac zaslony sukience.
+Na samym koncu dzieje tego dnia powiadal.
+Na spoczynek powraca.
+Na to zadrzal Asesor, puscil z rak kieliszek,
+Na wywrot jedwab czarny posrebrzany w kraty;
+Niedbale i bezladnie: nieporzadek mily!
+Nielatwa, bo nie na tym konczy sie, jak noga
+Nieraz dziad zebrzacy chleba,
+Niestare byly raczki, co je tak rzucily.
+Niewyraznie, jak dziecko przestraszone we snie;
+Nie chybil gospodarskiej, waznej powinnosci:
+Nie daje czasu szukac mody i gawedki.
+Nie podobna wieczerzy na pozniej odkladac:
+Nie powiadal; czestokroc wymykal sie noca
+Nie szukac prawodawstwa w drukarskich kramarniach
+Nie zmienia jej talerzow, nie nalewa szklanki,
+Nikt go na polowanie uprosic nie moze,
+Nikt na tym nic nie stracil, a pan moze zyska.
+Nikt nigdy nie zarzuci, bym uchybil komu
+Nim spostrzegl sie, wleciala przez okno, swiecaca,
+Nizli zywotow swietych; a jezdzac po kwescie,
+Nogi mial dlugie, cienkie jak od chmielu tyki,
+Nowogrodzki ochraniasz z jego wiernym ludem!
+Nozek, choc suknia krotka, oko nie zobaczy,
+Nucac chwycila suknie, biegla do zwierciadla:
+Obaczciez, co sie stalo w koncu z Bonaparta...>>
+Objasniaja wrodzone wdzieki i przymioty.
+Oblicze az na krzaki fijolkowe sklonil,
+Obok pan Podkomorzy otoczon rodzina;
+Obuchowicz z kahalem, Juraha z Piotrowskim,
+Obyczaje, Grzecznosc
+Obyczaje, Slowo
+Oczyma ciekawymi po drozynach gonil
+Odbiera naprzod rozum od obywateli.
+Odbila sie, jak od skal, od Moskwy szeregow,
+Odemknal, wbiegl do domu, pragnal go powitac.
+Odgadnal zaraz, czyim mialo byc siedzeniem.
+Odgadnela sasiadka powod jego trwogi,
+Odslaniajac ramiona i labedzia szyje.
+Odstrychneli od siebie mimowolnie glowy,
+Odsylac koni gosci Zydom do gospody.
+Odwolac swe rozkazy i niech mi wybaczy,
+Od dni kilku zbiera sie na sady graniczne,
+Od oltarza do ludu, by mowic: <<Pan z wami>>,
+Od Rejenta, szczuplejszy i maly z postawy,
+Ofiarowany, martwa podnioslem powieke;
+Oglada czule, jako swe znajome dawne.
+Oglosil nam, ze jacys Francuzi wymowni
+Ogon tez znacznie chartom pomaga do pedu:
+Ogrod
+Ogrodniczka dziewczynka zdawala sie mala,
+Ojca Podkomorzego, mosciwego pana
+Ojcu Podkomorzego sam krol ja darowal,
+Ojcze Robaku (ciszej rzekl do bernardyna),
+Ojczyzna! ja to czuje wszystko, ja rozumiem!
+Okazaly budowa, powazny ogromem,
+Okna bez szyb, lecz latem nic to nie zawadzi;
+Okno
+On lubil porownywac, a my do koltuna.
+On milczal, szczypte wzieta z tabakiery wazyl
+On mnie rada do uslug publicznych sposobil,
+On pana zastepuje i on, w niebytnosci
+On rzekl: <<Wielmozni szlachta bracia dobrodzieje,
+Opatrzonych w broszurki i w rozne gazety,
+Opuszczali rodzicow i ziemie kochana,
+Otarl predko, jak kochal pana Tadeusza.
+Otoczon chmura pulkow, tysiacem dzial zbrojny,
+O autorow pytala Tadeusza zdania
+O Bonaparta, zawsze wam tam do Warszawy!
+O dwa tysiace krokow zamek stal za domem,
+<<O, jak mnie to starego i smuci, i dziwi!
+O muzyce, o tancach, nawet o rzezbiarstwie,
+O pani Telimenie, lecz go nie mogl schwytac;
+O politycznych sprawach rozmawial po cichu.
+O porzadku, nikt mezczyzn i dam nie ustawial:
+O wiejskiego pozycia nudach i klopotach,
+Pachnace kwitna lasy; z legija Dunaju
+Pamiec spraw wielkich, wszystkie procesu wypadki,
+Pamietam, chociaz bylem wtenczas male dziecie,
+Pamietam za mych czasow podobne wypadki>>.
+Pana, zwykl sam przyjmowac i zabawiac gosci
+Panicz bogaty, krewny Horeszkow daleki,
+Panno swieta, co Jasnej bronisz Czestochowy
+Panny szly przed mlodzieza o jakie pol kroku
+Panny tuz za starszymi, a mlodziez na boku;
+<<Pan Podkomorzy! Oj wy! Pan zawsze ciekawy
+Pan Sedzia go przez grzecznosc prosil na wieczerze.
+<<Pan swiata wie, jak dlugo pracowac potrzeba;
+Pan Tadeusz, choc mlodzik, ale prawem goscia
+Pan Wojski poznal z dala, rece rozkrzyzowal
+Pan Wojski z Tadeuszem ida pod las droga,
+Pas taki mozna rownie klasc na strony obie,
+Pelen bukietow trawy angielskiej i miety.
+Piekna bylaby slawa, azeby pan taki
+Piekniejsze jest niz obcej mody malpowanie,
+Pieniadz, Obraz swiata
+Pierwsza z nim po francusku zaczela rozmowe.
+Pierwszy czlowiek, co w Litwie chodzil po francusku.
+Pierwszy raz zawitala moda francuszczyzny!
+Pies
+Pije wodke; jak krzykna ura! -- kanonada.
+Piotrowski, Obolewski, Rozycki, Janowicz,
+Pisarzom, ochmistrzyni, strzelcom i stajennym
+Pluta, adiutant sztabu przyjechal zawczora:
+Podczaszyc, mimo rownosc, wzial tytul markiza;
+Podczaszyc zapowiedzial, ze nas reformowac,
+Podkomorzanki na to zmarszczyly sie obie,
+Podkomorzy pochwala rzeczy nie przerywal,
+Podniesionymi w niebo, miecz oburacz trzyma;
+Podrozny dlugo w oknie stal patrzac, dumajac,
+Podrozny do folwarku nie biegl slug zapytac,
+Podrozny stanal w jednym z okien -- nowe dziwo:
+Podrozny zlakl sie, spojrzal; lecz juz jej nie bylo.
+Pod lasem i tam pewnie na mlodziez czekaja.
+Pojdziemy, jesli zechcesz, i wkrotce spotkamy
+Pokrecony, schowany w drobne straczki biale,
+Polak
+Polak, Polska, Walka, Emigrant, Mlodosc, Starosc, Wolnosc
+Polowanie, Klotnia, Ambicja
+Polowanie, Klotnia, Ambicja
+Polowanie, Obyczaje, Szlachcic
+Polyskal sie wstazkami jaskrawych stokrotek;
+Pomiedzy nim i stryjem, ale nic nie jadla;
+Poprawiala, to lekkim dotknieciem sie reki
+Posliznela sie nieco i w tym roztargnieniu
+Posrod nich brylant, niby zakryty od oczu,
+Postrzegali to chlopcy sluzacy mu do mszy.
+Powiewajac rozlewal deszcz iskier rzesisty;
+Po coz te przenosiny? Pan Wojski sie krzywil
+Po drodze Wozny ciagle Sedziemu tlumaczyl,
+Po kim byla zaloba, tylko zgadywano
+Po ktorej mial przyjsc wkrotce wielki post -- niewola!
+Po ojcu Podkomorzy godnie ja piastowal;
+Po scianach: w tej komnacie mieszkanie kobiece!
+Po tych rozmowach zawsze jakowas nowina
+Po tym miejscu biegalo domyslow tysiace,
+Po wielu latach pierwszy raz miala rodzina
+Praca, Pan, Chlop, Natura
+Pragnalby u Woznego lepiej sie wypytac
+Prawa i obyczaje, nawet suknie stare.
+<<Prawda -- rzekl -- moj Rejencie, prawda bez watpienia,
+Prawnik, Obyczaje, Sad
+Prawnik, Wspomnienia
+Procz Tadeusza widac, ze ja wszyscy znali.
+Prostym ludziom wokanda zda sie imion spisem;
+Przebranie, Stroj, Obcy
+Przeciez nieraz nowina niby kamien z nieba
+Przedstawiajac dwa smycze chartow tym obrazem:
+Przed oczyma rodzicow, ktorzy te pogonie
+Przed wiescia dla Rosyi straszna jak zaraza.
+Przeprosiwszy go grzecznie, na miejscu swym siadla
+Przesladujac w ojczyznie Boga, przodkow wiare,
+Przesuwaja w jaselkach ukryte chlopieta.
+Przychodzi budzic; pewnie ma jakies nowiny.
+Przyjechal pan Podczaszyc na francuskim wozku,
+Przyjmowal zwyczaj, ktorym wszystko oddychalo.
+Przynajmniej tom skorzystal, ze mi w moim domu
+Przynosi kosci stare na ziemie ojczysta,
+Przypadkiem oczy podniosl, i tuz na parkanie
+Przypominal mu jego lata mlodociane,
+Przypomnial, ze za pierwszym na miejsce wejrzeniem
+Przyszedl, i kiedy blizej poznal panow dworu,
+Przyszla nagle taz chetka, nie wiadomo czemu.
+Przywodca
+Przywolawszy dwie strony, <<Uciszcie sie!>> wola.
+Przy ktorym swieca geste kutasy jak kity,
+Przy mszy, gdy z wzniesionymi zwracal sie rekami
+Pstrek na prawo, koziolka, z nim w prawo psy glupie,
+Psy tuz, i hec od lasu odsadzili kawal;
+Psy tuz (to mowiac, rece ciagnal wzdluz po stole
+Psy za nim fajt na lewo: on w las, a moj Kusy
+Puste miejsce, jak gdyby na kogos czekalo.
+Puszczano wtenczas za nim dla zabawki smycze
+Pytano zdania innych; wiec wszyscy dokola
+Radziwil z Wereszczaka, Giedroic z Rdultowskim,
+Ran tych nie dostal pewnie przy czytaniu mszalu.
+Raz wraz skrzypi i napoj w koryta rozlewa.
+Raz w bitwie, gdzie podzial sie? szukac Bonaparta,--
+Rodzina panska, jak go czeladka sciskala,
+Rosjanin, Polak, Walka, Przyjazn
+Rosliny
+Rowniez patrzyla ona: i cztery zrenice
+Rozbieral mysla wszystkie dzisiejsze wypadki:
+Rozeszla sie w sasiedztwie. Postac bernardyna
+Roztargniony, do swojej nadobnej sasiadki
+rski zabierano.
+Rumienil sie, serce mu bilo nadzwyczajnie:
+Ruskie przyslowie: z kim sie bije, tego lubie;
+Rykow jadl smaczno, malo wdawal sie w rozmowe,
+Rzekl: <<Musze ja wam sluzyc, moje panny corki,
+Rzekl polglosem: <<Przepraszam, musielismy siadac,
+Rzekl z usmiechem, a byl to usmiech jadowity:
+Sam Podczaszyc jaki byl, opisywac dlugo;
+Sam Wozny umial pas ten odwiazywac, skladac;
+Sasiadka zasmiala sie, lecz nie powiedziala
+Sa, jak wiadomo, krzepcy, otyli i silni,
+Sa tu swieccy, do ktorych nic to nie nalezy>>.
+Schede ojca swojego i majatek bratni
+Sciagnely wzrok sasiadki, uwaznej kobiety.
+Sciany bez zadnych ozdob, ale mur chedogi;
+Scigany od Moskali, skakal kryc sie w Niemnie
+Sedzia, choc utrudzony, chociaz w gronie gosci,
+Sedzia milczal, on jeszcze skinieniem przyzwalal;
+Sedzia na drugim koncu do nowej sasiadki
+Sedzia Podkomorzego zdal sie radzic okiem;
+Sedzia u progu reke dal Podkomorzynie,
+Sedzia, z boku rzuciwszy wzrok na Tadeusza
+Sen, Noc, Gospodarz
+Siadl przy swiecy i dobyl ksiazeczke z kieszeni,
+Siedzial gosc, Moskal; byl to pan kapitan Rykow,
+Siekac wrogow, a Praga juz sie wkolo pali.
+Skinal na Tadeusza, rzucil wzrok surowy:
+Sklepienie cale -- wprawdzie pekla jedna sciana,
+Skromny mlodzieniec oczy zmruzyl i przyslonil,
+Slad wyrazny, lecz lekki, odgadniesz, ze w biegu
+Slonce nad nim czerwone jak pozar na dachu.
+Slonce ostatnich kresow nieba dochodzilo,
+Slonce, Wieczor
+Slowem, ubior galowy; szeptali niejedni,
+Slowem, zrobim na urzad wielkie polowanie;
+Slowo, Obyczaje
+Slowo, Zabawa, Kobieta, Mezczyzna
+Sluchal zmruzywszy oczy, slowa nie powiedzial,
+Sludzy nie wyszli witac; ale nie mysl wcale,
+Sluga
+Slusznie Wozny powiadal, ze w zamkowej sieni
+Slyszalem, zes zza Niemna odebral wiadomosc;
+Smierc bohaterska
+Sokol smyk naprzod; raczy pies, lecz zagorzalec,
+Spadala w Litwe.
+Spod ramion wytknal palce i dlugie paznokcie,
+Spor byl wielki, juz potraw ostatnich nie jedli;
+Spotkanie
+Spotkanie sie, wieczerze przy boku sasiadki;
+Sprawa wrocila znowu do sadow granicznych.
+Spraw takze politycznych byl Robak swiadomszy,
+Spuszcza sie na wierzch boru i juz pomrok mglisty,
+Srod cichej wsi litewskiej, kiedy reszta swiata
+Srod nich jedna kroluje postac, jak w pogode
+Stado cielic tyrolskich z mosieznymi dzwonki;
+Stad droga do afektow i stad sie kojarzy
+Stala mloda dziewczyna... Biale jej ubranie
+Stali i rozprawiali, nieco poroznieni:
+Staly spisane sprawy, ktore przed urzedem
+Stal dwor szlachecki, z drzewa, lecz podmurowany;
+Stanal i oczy wkolo obracal ostrozne.
+Stanela Podczaszyca dwukolna dryndulka,
+Starsi i damy spaly we dworskim budynku;
+Stary zolnierz, stal w bliskiej wiosce na kwaterze,
+Sterczaly wkolo sarnie i jelenie rogi
+Stojac i pijac obie klocily sie strony,
+Stroj
+Stroj, Kobieta
+Stroj, Kobieta
+Stryjaszek mysli wkrotce sprawic ci wesele;
+Stryjaszka, Podkomorstwo i szanowne damy>>.
+Stryj nieraz na to miejsce i na drzwi pogladal,
+Strzelby, ktora zhanbiono sypiac w nia srut cienki!
+Suknia, a twarz od strachu i dziwu pobladla.
+Suknie materyjalna, rozowa, jedwabna,
+Swieca gesto jak gwiazdy, widac z liczby plugow
+Swiecily sie z daleka pobielane sciany,
+Swiecil sie jako gwiazda w komety warkoczu:
+Swiecil sie jak korona na swietych obrazku.
+Swiezo tracone, blisko drzwi slad widac nozki
+Szczesciem, ze nauczyciel ladny i niesrogi;
+Szczypiac trawe ciagnely powoli pod brame.
+Szeroko nad blekitnym Niemnem rozciagnionych;
+Szlachcic, Nauka, Doroslosc
+Szla huczac ku polnocy, az u Niemna brzegow
+Szukala kogos okiem, daleko, na dole;
+Tabakiera ze zlota, z brylantow oprawa,
+Tadeusz, by nie zdradzic swego roztargnienia:
+Tadeusz, chociaz liczyl lat blisko dwadziescie,
+Tadeusz i sasiadka, tym glosu wybuchem
+Tadeusz, na ktorego niespodzianie spadal
+Tadeusz odpowiadal smielej, szla rzecz dalej,
+Tadeusz przygladal sie nieznanej osobie.
+Tadeusz sie od przodkow swoich nie odrodzil:
+Tadeusz tam poglada, gdzie nie siedzi zadna.
+Tadeusz Telimenie, Asesor Krajczance,
+Tadeusz zatem przywiozl w strony swe rodzinne
+Tadeusz z kilku goscmi poszedl do stodoly,
+Taka byla przesadow owoczesnych wladza!
+Takie byly zabawy, spory w one lata
+Takim byl, gdy przysiegal na stopniach oltarzow,
+Takim kwestarzem tajnym byl Robak podobno:
+Tak Bonaparte znowu w kota sie przerzuca,
+Tak dlugo czekac! nawet tak rzadka nowina --
+Tak dowcipne zarciki umial komponowac,
+(Tak kaze przyzwoitosc). Nikt tam nie rozprawial
+Tak mowiac na Sedziego mrugal; widac z miny,
+Tak nas powrocisz cudem na Ojczyzny lono.
+Tak nie chca znac czlowieka rodu, obyczajow!
+Tak przekradl sie Gorecki, Pac i Obuchowicz,
+Tak to nauka sama z latami przychodzi>>.
+Tak zwykl mawiac pan Sedzia, a Sedziego wola
+Tam konie rzace leca ze skoszonej laki:
+Tam stala wypisana i liczba zolnierza,
+Tam wodz Murzyny gromi, a wzdycha do kraju.
+Ta przerwa rozmow trwala juz minut ze cztery.
+Tenze sam markiz przybral tytul demokraty;
+Tepy nie byl, lecz malo w naukach postapil,
+Teraz grzmi orez, a nam starym serca rosna,
+Teraz mu z calej psiarni dwa charty zostaly,
+Teraz, nie wiem, czy moda i nas starych zmienia,
+Teraz rece przy boku mial, w tyl wygial lokcie,
+Teraz Sedziego, ktory juz spal od godziny,
+Teraz wszedl w sluzbe rzadu, by znaczyc w powiecie.
+Tez same widzi sprzety, tez same obicia,
+Te wszystkie Tadeusza cnoty i zalety
+Tlumaczac, ze gotyckiej sa architektury;
+Topoli, co go bronia od wiatrow jesieni.
+To dziwaczne spotkanie, czy wstydzic, czy cieszyc.
+To jedno puste miejsce neci go i mami,
+To miejsce jest zagadka; mlodz lubi zagadki;
+To mowiac, Sedzia gosci obejrzal porzadkiem;
+To mowiac, tabakiere podawal starcowi.
+To nieraz tak sie zrecznie skrecil jednym razem,
+To rzeklszy, z Podkomorzym przy pelnym kielichu
+To wysylal poslancow, ale gdzie i po co
+Trafia sie, ze spod konia mknie sie biedak zajac:
+Trudno bylo; bo krzesel dla gosci nie stalo,
+Trudno bylo wylozyc koszt na utrzymanie;
+Trzeba bylo rzed ruszyc lub lawe przeskoczyc;
+Trzeba sie dlugo uczyc, azeby nie zbladzic
+Trzymano wprawdzie chartow: bo z lowow wracajac,
+Trzy osoby na wybor; wzial najblizsza sobie;
+Tuz i sukienka biala, swiezo z kolka zdjeta
+Tuz mysliwcow herbowne klejnoty wyryte,
+Tuz stalo wody pelne naczynie blaszane,
+Tu owiec trzoda beczac w ulice sie tloczy
+Tu Rykow przerwal i jadl; wtem, z potrawa czwarta
+Tu smiech mlodziezy mowe Wojskiego zagluszyl.
+Twarzy nie bylo widac; zwrocona na pole
+Twarzy wowczas nie dostrzegl, nazbyt rychlo znikla;
+Twarz podroznego barwa splonela rumiana,
+Tylko co wyszla: jeszcze kolysza sie drzwiczki
+Tylko sie wachlowala, to wachlarza trzonek
+Tylko smutno, ze nam, ach, tak sie lata wleka
+Tymczasem na folwarku nie uszlo bacznosci,
+Tymczasem przenos moja dusze uteskniona
+Tym bielsze, ze odbite od ciemnej zieleni
+Tym ladem, mawial, domy i narody slyna,
+Tytul: Pan Tadeusz czyli ostatni zajazd na Litwie - ksiega pierwsza.
+Ucichly i stanely: tak pan Sedzia kaze,
+Uczepiwszy falbana o czyjes kolana,
+Udal sie sam ku studni. Najlepiej z wieczora
+Ujrzala, zasmiala sie i klasnela w dlonie,
+Umilkli wszyscy i ust nie smieli otwierac.
+Uprawne dobrze na ksztalt ogrodowych grzadek:
+Urzadzajac we dworze izby do spoczynku.
+Usiadla owa pieknosc widziana w pomroku!
+Usnal ostatni w Litwie wozny trybunalu.
+Usneli wszyscy. Sedzia sam oczu nie zmruza;
+Ustawicznie do bebna tesknil, siedzac w szkole.
+Utopil w Tadeusza wzrok jak bazyliszek.
+Uzywac na wsi dlugo wzbronionej swobody;
+U nas w pulku gadano, jak szli na Francuza,
+U niego ze dniem koncza prace gospodarze.
+U tej znalazl podobne oczy, usta, lica.
+Wbiega i okiem chciwie sciany starodawne
+Wchodzi, cofnal sie, toczyl zdumione zrenice
+Wdzial wiec jak mogl najpredzej niedzielne ubranie
+Wedle dzisiejszej mody jezdzil na szaraki!
+Wesole, lecz w porzadku. Naprzod dzieci male
+Weszla nowa osoba przystojna i mloda.
+We dworze pusto: bo drzwi od ganku zamknieto
+We dworze zadna izba nie ma obszernosci
+We lzach i krwi tonela;
+We zbozach, i grabliska suwane po lace,
+Wiadomo, ze tytuly przychodza z Paryza,
+(Widac bylo, ze sluchal rozmowy niechetnie)
+Widac, ze okolica obfita we zboze,
+Widzac goscia, na folwark dazyl po kryjomu,
+Widzac ze w tylu szlachty, w tylu panow gronie,
+Widze i opisuje, bo tesknie po tobie.
+Wiec choc swiadka nie miala, zalozyla rece
+Wiec do porzadku wykli domowi i sludzy;
+Wiec ja w domu podobnych spraw nie decyduje,
+Wiec niech jasnie wielmozny Podkomorzy raczy
+Wiec rozwiazane widzial swych domyslow tajnie!
+Wiec Sedzia jego puchar i swoj kielich nalal,
+Wiec szanuja przyjaciol jak pieniadze Zydzi>>.
+Wiec szlachcic obyczaje swe trzymal pod straza.
+Wiec zblizyl sie i z wolna gladzac faworyty
+Wiedzialem, ze spudluje. Szarak, gracz nie lada,
+Wiedzial, ze byl przystojny, czul sie rzeski, mlody,
+Wiedzial, ze go myslano do wojska sposobic,
+Wiedzial, ze niecierpliwa mlodziez terazniejsza,
+Wiesc o zyciu, o chwale i o smierci syna;
+<<Wiwat!>> krzykneli wszyscy; on sie wszystkim sklonil
+Wlasnie dwukonna bryka wjechal mlody panek
+Wlasnie rzecz konczyl. <<Wyczha! puscilismy razem
+Wlasnie tym sie zatrudnial i konczyl tak gadac:
+Wlasnie z lasu wracalo towarzystwo cale,
+Wlawszy kropelke wina w szklanke panny Rozy,
+Wlos w pukle nierozwity, lecz w wezelki male
+Wojna
+Wojskiego tez nie widzial, bo zaraz z wieczerzy
+Wojski na ostrym koncu srod mysliwych siedzial,
+Wolal gosci przeprosic i w pustki prowadzic.
+Wonnymi powiewami kwiatow oddychajac.
+Woznemu jest obrazow wspanialych zarysem.
+Wozny! odwolaj sprawe, na jutro na pole.
+Wozny sam glosem swoim przed laty wywolal,
+Wprawdzie zdala sie teraz wzrostem dorodniejsza,
+Wprzaglszy w swoj rydwan orly zlote obok srebrnych,
+Wracal z miasta, ze szkoly: wiec o ksiazki nowe,
+Wreszcie z odmienna moda, pod Napoleonem,
+Wrocilby do Lachowicz i w grob sie polozyl!
+Wstano od stolu, pierwszy Podkomorzy ruszyl,
+Wszakze kto gosci prosi w zamek na wieczerze,
+Wszczela rzecz o mniej trudnych i madrych przedmiotach,
+Wszedl sluzacy i raptem boczne drzwi otwarto.
+Wszyscy poszli za goscmi, jak slugom nalezy,
+Wszystkie zacnie zrodzone, kazda mloda, ladna:
+Wszystkie zlosliwe, ostre. Dawniej czlek dostatni,
+Wszystko strwonil na wielkim figurujac swiecie;
+Wtem ujrzala mlodzienca i z rak jej wypadla
+Wtem, wielkim szczesciem, dwakroc kichnal Podkomorzy
+Wtem zapadlo do glebi; jeszcze przez konary
+Wtenczas i swoja waznosc zarazem poznaje:
+Wtenczas kim byl, wyznawal: byl legijonista,
+Wyczha! poszli, a zajac jak struna, smyk w pole,
+Wydawala, ze mnich ten nie zawsze w kapturze
+Wyjezdza za granice, to juz nie po odziez,
+Wykrzyknikow i westchnien, i nowych powitan.
+Wysadzil sie przed Kusym, o tyle, o palec:
+Wysiadl z powozu; konie porzucone same,
+Wysmukla postac tylko az do piersi kryje,
+Wysoko siadl przy damach obok jegomoscia;
+Wyszedl zmieszany i czul, ze mu serce bilo
+Wyzlacanych pszenica, posrebrzanych zytem;
+Wy Polaki, ja Ruski: teraz sie nie bijem,
+W biegu dotknela blisko naszego mlodziana;
+W granatowym kontuszu stal przed trybunalem,
+W koncu, stawila przed nim trzy z chleba galeczki.
+W ktorej lat kilku dzieje chciano zamknac w slowa
+W Marengo, w Ulm, w Austerlitz. Zwyciestwo i Zabor
+W mym domu wiecznie bedzie jego pamiec droga,
+W nieczynnosci! a oni tak zawsze daleko!
+W okolicy; i tylko cichy smutek panow,
+W palcach i dlugo dumal, nim ja w koncu zazyl;
+W pole i w domu przyszla urzadza zabawe.
+W pol godziny juz byli z soba poufali;
+W pol godziny tak bylo glucho w calym dworze
+W ponczochach, ze srebrnymi klamrami trzewiki,
+W pukle, i przeplatane rozowymi wstegi,
+W reku trzyma noz ostrzem zwrocony do lona,
+W sadzie, na brzegu niegdys zaroslym pokrzywa,
+W senacie, znowu w ziemstwie i guberskim rzadzie;
+W slad gospodarza wszystko ze zniwa i z boru,
+W takim Litwinka tylko chodzic zwykla z rana,
+W takim nigdy nie bywa od mezczyzn widziana:
+W uczciwosci, w grzecznosci; a powiem to smialo,
+W wieku moze by byla najwieksza roznica:
+W wielkiej peruce, ktora do zlotego runa
+W zamku sien wielka, jeszcze dobrze zachowana,
+W zastepstwie gospodarza, w stodole na siano.
+Zaczela sie ta predka, zmieszana rozmowa,
+Zaczeli nawet male zarciki i sprzeczki.
+Zaczeli proces w ziemstwie, potem w glownym sadzie,
+Zaden pan nigdy przyjac nie chcialby do reki
+Zaden za zajacami nie jezdzil Hreczecha>>.
+Zalosnie bylo widziec wyzolklych mlokosow,
+Zalowal, ze go tylko widzial idac z lasu,
+Zamek
+Zamiast lokajow, w kielni siedzialy dwa pieski,
+Zamku zaden wziac nie chcial, bo w szlacheckim stanie
+Zanoszac sie od placzu! On za stolem siadal
+Zaszczepkami i kolkiem zaszczepki przetknieto.
+Zas godna jest waszmosciow uwagi osobnej
+Zazdroszczono domowi, przed ktorego progiem
+Za moich, panie, czasow, w jezyku strzeleckim,
+Za nim szedl kwestarz, Sedzia tuz przy bernardynie.
+Zeby nie mial byc chwytny?...>> Wiec Tadeusz znowu
+Ze architekt byl majstrem z Wilna, nie zas Gotem.
+Ze goscinna, i wszystkich w goscine zaprasza.
+Ze ja nudzi rzecz dluga, choc najwymowniejsza.
+Ze mial i tail inne, wazniejsze przyczyny.
+Ze nie ma szkol uczacych zyc z ludzmi i swiatem.
+Ze nie moge na takie jechac polowanie,
+Ze nie wierzono rzeczom najdawniejszym w swiecie,
+Ze ojciec w testamencie wyrzekl taka wole;
+Ze przed ganek zajechal ktorys z nowych gosci.
+Ze tym mieczem wypedzi z Polski trzech mocarzow,
+Ze u wieczerzy bedzie z mnostwem gosci siedzial.
+Ze wszyscy o nim wiedza, lekce go nie waza;
+Ze w tym domu dostatek mieszka i porzadek.
+Ze zbyt wykwintny na wies i na dzien powszedni.
+Ze znowu o Polakach tak na swiecie glosno;
+Zielona, na niej z rzadka ciche grusze siedza.
+Zlota na dzien galowy, a czarna w zalobie.
+Zmieniano wiare, mowe, prawa i ubiory.
+Zmierzyla jego postac ksztaltna i wysoka,
+Znac bylo, ze przychodzil juz do wnioskow mowy.
+Znienacka przestraszeni wlasnie w pol rozmowy,
+Zolnierz, Ksiadz
+Zolnierz, Syn, Walka
+Zostawiano dla platnych slug i dworskich ciurow;
+Zrecznie miedzy dwie lawy umiala sie wtloczyc,
+Zrecznie wierzgnac, z usmiechem witac lada kogo;
+Zreszta zdac sie mozemy na sad panskiej cioci.
+Zrobili wynalazek: iz ludzie sa rowni...
+Zrodlo: https://wolnelektury.pl/katalog/lektura/pan-tadeusz.html#footnote-idm140668216649920 (data dostepu: 09.10.18)
+Zwano go kaznodzieja, ze zbyt lubil gesta).
+Zwierzeta
+Zwlaszcza gdy zacnosc domu, fortuny szczodroty
+Z barona przechrzcilby sie kiedys demokrata.
+Z dozorca, potem Sedzia szedl z Podkomorzyna,
+Z gory juz robil projekt, ze sobie pozwoli
+Z jednej strony zlotoglow w purpurowe kwiaty,
+Z jego upadkiem domy i narody gina.
+Z kim on zyl? co porabial? Kazdy gdzie chce wchodzi,
+Z ktorych by wychowanie poznano stoleczne;
+Z napisami, gdzie, kiedy te lupy zdobyte;
+Z opieki nie wypuscil, az czlowiekiem zrobil.
+Z palcami swymi zabiegl az do drugiej strony,
+Z Soplica; i czytajac, z tych imion wywabia
+Z wieku mu i z urzedu ten zaszczyt nalezy,
+Z wieku mu i z urzedu ten zaszczyt nalezy,
+Z ziemi wloskiej stara sie przyciagnac do Polski,
+-- <<Nic a nic>> odpowiedzial Robak obojetnie,

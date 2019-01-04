@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+#!/bin/bash
+
+if [[ -e $1 ]]
+then
+
+echo "sciezka istnieje"
+
+else
+
+echo "sciezka nie istnieje" fi
+#!/bin/bash
+
+if [[ -e $1 ]]
+then
+
+echo "sciezka istnieje"
+
+else
+
+echo "sciezka nie istnieje" fi

@@ -1,0 +1,20 @@
+zad1. find -iname '*nowy*' 
+zad2. find 'Dokumenty' -type d
+zad3. find [a,o]* -type f
+zad4. find [s]?? -type f
+zad5. find -iname '*prog*' 
+zad6. find -iname '*conf*' -type f
+zad7. find -empty -type d
+zad8. find -cmin -10 
+zad9. find -cmin +10 -cmin -60 -type f 
+zad10. find -maxdepth 1 ! -name '*bug*' 
+zad11. grep dawne wiersz.txt 
+zad12. grep -i takim wiersz.txt 
+zad13. grep [^0-9] wiersz.txt 
+zad14. egrep -i "[a-z0-9]{2,4}d" wiersz.txt 
+zad15. egrep -i "p[a-z]*a | g[a-z]*e" wiersz.txt 
+zad16. grep -iw '.*[o][o].*' wiersz.txt 
+zad17. grep -iw '[b-z]*[a][b-z]*[a][b-z]*[a][b-z]*' wiersz.txt 
+zad18. grep -iwc '*a[a-z]*o' wiersz.txt 
+zad19. grep -iwc 'a[a-z]*o' wiersz.txt 
+zad20. grep '^[0-9]' *.txt

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542203562 source:/home/LABPK/rwensker/zadania/Projekt3/main.c
+	<stdio.h>
+	<stdlib.h>
+

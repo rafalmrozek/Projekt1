@@ -1,0 +1,159 @@
+zad1 
+#!/bin/bash
+tablica=($*) echo ${tablica[*]}
+#1 wersja fora
+function suma1 {
+	local suma=0
+	for ((i = 0; i<${#tablica[*]}; i=i+1 ))
+	do
+	 suma=$[suma+${tablica[i]}] #suma = suma+element tablicy
+	done
+	echo $suma
+	
+}
+
+function suma2 {
+	local suma=0
+	for i in ${tablica[*]}
+	do
+	 suma=$[suma+$i] #suma = suma+element tablicy
+	done
+	echo $suma
+	
+}
+suma1 suma2
+ exit 0; 
+zad2 
+#!/bin/bash
+tablica=($*) echo ${tablica[*]} function suma1 {
+	local suma=0
+	for ((i = ${#tablica[*]}; i>=0; i=i-1 ))
+	do
+	 echo ${tablica[i]}
+	done
+	
+	
+}
+suma1 exit 0;
+zad3 
+#!/bin/bash
+tablica=($*) echo ${tablica[*]} function najwieksza {
+	local max=${tablica[0]}
+	for ((i = 0; i<${#tablica[*]}; i=i+1 ))
+	do
+		if [[ ${tablica[i]} -gt $max ]]
+ 		then
+		 max=${tablica[i]}
+		fi
+	done
+	echo "najwieksza wartosc to" $max
+	
+}
+function najmniejsza {
+	local min=${tablica[0]}
+	for ((i = 0; i<${#tablica[*]}; i=i+1 ))
+	do
+		if [[ ${tablica[i]} -lt $min ]]
+ 		then
+		 min=${tablica[i]}
+		fi
+	done
+	echo "najniejsza wartosc to" $min
+	
+}
+najwieksza najmniejsza
+ exit 0; 
+zad4  
+
+#!/bin/bash
+read napis function wyswietl_pierwsza_litere {
+	echo "pierwsza litera to" ${napis:0:1} #wyswietl wszystkie 
+liczby pomiedzy 0 i 1
+}
+function wyswietl_ostatnia_litere {
+	echo "ostatnia litera to" ${napis:${#napis}-1}
+}
+function wyswietl_od_pierwszej_do_srodkowej {
+	echo "wyswietl_od_pierwszej_do_srodkowej" ${napis:0:${#napis}/2}
+}
+function wyswietl_od_srodkowej_do_ostatniej {
+	echo "wyswietl_od_srodkowej_do_ostatniej" 
+${napis:${#napis}/2:${#napis}}
+}
+wyswietl_pierwsza_litere wyswietl_ostatnia_litere 
+wyswietl_od_pierwszej_do_srodkowej wyswietl_od_srodkowej_do_ostatniej
+exit 0;
+zad5
+#!/bin/bash
+
+read a
+read b
+read c
+function czydodatnie
+{
+if [[ $1 -lt 0 || $2 -lt 0 || $3 -lt 0 ]]
+then 
+exit 0 
+fi
+}
+function trojkat
+{
+czydodatnie $1 $2 $3
+let max=$1
+if [[ $max -lt $2 ]]
+then
+max=$2
+fi
+if [[ $max -lt $3 ]]
+then
+max=$3
+fi
+if [[ $max -eq $1 ]]
+then
+let s=$2+$3
+if [[ $max -gt $s ]]
+then	
+return 0	
+else
+return 1	
+fi
+elif [[ $max -eq $2 ]]
+then
+let s=$1+$3
+if [[ $max -gt $s ]]
+then	
+return 0	
+else	
+return 1
+fi
+elif [[ $max -eq $3 ]]
+then
+let s=$1+$2
+if [[ $max -gt $s ]]
+then		
+return 0
+else
+return 1
+fi
+fi
+}
+trojkat a b c echo $?
+zad6
+#!/bin/bash
+function srednia { let suma=0 tab=($*) for i in ${tab[@]}
+	do
+	{
+	let suma=$suma+$i
+	}
+	done let suma=$suma/$# echo $suma return $suma
+}
+srednia 1 4 echo $?
+zad7
+#!/bin/bash
+function odwroc()
+ { 
+napis=$1 
+for (( i=${#napis}+1; $i>0; i-- )) do 
+w=$w${napis:$i-1:1} done echo $w
+}
+odwroc adam

@@ -1,0 +1,97 @@
+    1  ls
+    2  cd Pulpit
+    3  ls
+    4  ll
+    5  cd ..
+    6  mkdir temp
+    7  cd temp
+    8  mkdir studia
+    9  cd studia
+   10  mkdir zajecia
+   11  ls
+   12  mkdir zadania
+   13  ls
+   14  cd zadania 
+   15  mkdir wykodane
+   16  mkdir niewykonane
+   17  mkdir lab
+   18  cdlab
+   19  cd lab
+   20  ls
+   21  mkdir programowanie
+   22  mkdir srodowisko
+   23  cd ..
+   24  mv -r lab ~/temp zajeciaalogu programowani
+   25  mv  lab ~/temp zajecia
+   26  mv  lab ~/temp/zajecia
+   27  tree temp
+   28  cd..
+   29  cd ..
+   30  cd zajecia
+   31  mkdir lab
+   32  mv programowanie lab
+   33  mv srodowisko lab
+   34  tree temp
+   35  tree
+   36  mv zajecia studia
+   37  cd ..
+   38  mv zajecia studia
+   39  tree
+   40  cd zajecia
+   41  cd studia
+   42  cd zajecia
+   43  mkdir wyklady
+   44  cd wyklady
+   45  touch przedmioty.txt
+   46  cp przedmioty.txt ~/studia/zajecia/lab/programowanie
+   47  cd ..
+   48  cd..
+   49  cd ..
+   50  ls
+   51  cd zajecia
+   52  ls
+   53  cd lav
+   54  cd lab
+   55  ls
+   56  tree
+   57  cd ~
+   58  tree
+   59  cd temp
+   60  tree
+   61  mkdir zajecia
+   62  tree
+   63  cd zajecia
+   64  mkdir lab
+   65  mkdir inne
+   66  cd lab
+   67  mkdir programowanie
+   68  mkdir srodowisko
+   69  tree
+   70  cd ..
+   71  tree
+   72  cd zajecia
+   73  mkdir wyklady
+   74  cd wyklady
+   75  touch przedmioty.txt
+   76  cp przedmioty.txt ~/zajecia/programowanie
+   77  cp przedmioty.txt ~/zajecia/lab/programowanie
+   78  cp przedmioty.txt ~/temp/zajecia/lab/programowanie
+   79  cd ~
+   80  cd temp
+   81  ls
+   82  tree
+   83  cd zajecia
+   84  cd lab
+   85  cd programowanie
+   86  mv przedmioty.txt oceny.txt
+   87  cat przedmioty.txt
+   88  cat oceny.txt
+   89  cat ../zajecia/wyklady/przedmioty.txt
+   90  cat ~/temp/zajecia/wyklady/przedmioty.txt
+   91  touch temp.txt
+   92  mv temp.txt wyniki.txt
+   93  mv wyniki.txt ~/temp/zajecia/inne
+   94  cd ~
+   95  ll -al
+    	rm -r temp
+   96  history > t.txt

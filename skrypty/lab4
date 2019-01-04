@@ -1,0 +1,35 @@
+1.echo "Hello world"
+2.echo "Podaj imie:"
+read imie
+echo $imie
+3.echo "Podaj liczbe calkowita:"
+let liczba1
+read liczba1
+echo "Podaj druga liczbe calkowita: "
+read liczba2
+echo $[$liczba1 * $liczba2]
+4.echo "Podaj liczbe calkowita:"
+read liczba1
+echo "Podaj druga liczbe calkowita: "
+read liczba2
+echo "Podaj trzecia liczbe calkowita: "
+read liczba3
+echo $[$liczba1 + $liczba2 +$liczba3]
+5.echo "Podaj rok:"
+read rok
+cal $rok  
+6.pwd >> dane.dat
+who -u >> dane.dat
+
+7.read sciezka 
+
+sort <  $sciezka  >> sortowanie.dat
+8.read sciezka 
+
+lstar -zcvf archiwum.tar $sciezka
+9.read sciezka 
+read znak
+grep  "$znak[a-zA-Z]*" $sciezka > slowa.dat
+
+10.mkdir "`date`"
+

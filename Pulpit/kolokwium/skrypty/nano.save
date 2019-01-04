@@ -1,0 +1,6 @@
+#!/bin/bash
+select in "dodawanie" "odejmowanie"
+do
+	case $y in
+	"dodawanie") echo $(($1+$2)) ;;
+	"odejm
